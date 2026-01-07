@@ -107,7 +107,7 @@ main {
 .policy-content p {
     margin-bottom: 15px;
     color: #555;
-    text-align: justify;
+    text-align: left;
 }
 
 .policy-content ul {
@@ -154,9 +154,5 @@ footer a:hover {
     
     .policy-content {
         padding: 20px 15px;
-    }
-    
-    .policy-content p {
-        text-align: left;
     }
 }
